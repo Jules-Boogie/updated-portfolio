@@ -20,7 +20,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS
 
 
 **HTML Snippet**
-<div class="row">
+'<div class="row">
             <div class="col-lg-12 float-left">
                 <div class=" text-left font-weight-normal">
                     <h1 class="name"><strong>Juliet George</strong></h1>
@@ -33,7 +33,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS
                                     <h1 class="skills">node.js</p>
                 </div>
             </div>
-        </div>
+        </div>'
 
 **Page Snippet**
 

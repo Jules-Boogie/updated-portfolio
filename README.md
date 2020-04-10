@@ -37,7 +37,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS
 
 **Page Snippet**
 
-![alt text](https://github.com/Jules-Boogie/work-day-scheduler/blob/master/Assets/Capture.PNG)
+![Updated Portfolio](https://github.com/Jules-Boogie/updated-portfolio/blob/master/assets/pic.PNG)
 
 
 

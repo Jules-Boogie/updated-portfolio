@@ -13,6 +13,7 @@ This project is to create an updated portofolio page that is showcasing the vari
 [LinkedIn](https://www.linkedin.com/in/juliet-george-864950b8/)
 
 **Built With**
+
 https://getbootstrap.com/docs/4.4/getting-started/introduction/
 
 https://developer.mozilla.org/en-US/docs/Web/HTML
